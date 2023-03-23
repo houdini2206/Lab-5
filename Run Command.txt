@@ -1,5 +1,0 @@
-g++ -fopenmp sorting.cpp -o sorting
-./sorting
-
-g++ -fopenmp filename.cpp -o anyname
-./anyname
